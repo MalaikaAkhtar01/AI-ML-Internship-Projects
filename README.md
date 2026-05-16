@@ -1,18 +1,30 @@
-# Task 1 - Iris Dataset Visualization
+# AI/ML Internship Projects
 
-## Objective
-Explore and visualize the Iris dataset using Python.
+This repository contains AI/ML internship tasks completed using Python and machine learning techniques.
 
-## Tools Used
+## Tasks Included
+
+### Task 1 - Iris Dataset Visualization
+- Data analysis
+- Scatter plots
+- Histograms
+- Box plots
+
+### Task 2 - Stock Price Prediction
+- Yahoo Finance API
+- Linear Regression
+- Actual vs Predicted comparison
+
+### Task 3 - Heart Disease Prediction
+- Exploratory Data Analysis
+- Logistic Regression
+- ROC Curve and Confusion Matrix
+
+## Technologies Used
+- Python
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
-
-## Visualizations
-- Scatter Plot
-- Histograms
-- Box Plots
-
-## Key Findings
-- Iris-setosa is clearly separable
-- Petal measurements show strong relationships
+- Scikit-learn
+- yfinance
