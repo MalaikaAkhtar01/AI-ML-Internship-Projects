@@ -1,75 +1,64 @@
- AI/ML Internship Projects
- Overview
+# AI/ML Internship Projects
 
-This repository contains AI/ML internship tasks completed using Python and popular machine learning libraries.
-The projects focus on data analysis, visualization, predictive modeling, and classification problems, helping build strong foundational skills in Artificial Intelligence and Machine Learning.
+## Overview
+This repository contains AI/ML internship tasks completed using Python and machine learning techniques.  
+The projects focus on data analysis, visualization, and predictive modeling using real-world datasets.
 
-Each task demonstrates practical implementation of real-world datasets using standard ML workflows.
+---
 
- Tasks Included
- Task 1: Iris Dataset Visualization
+## Tasks Included
 
-This task focuses on exploratory data analysis (EDA) and visualization of the classic Iris dataset.
+### Task 1: Iris Dataset Visualization
+This task focuses on exploratory data analysis and visualization of the Iris dataset.
 
-Key Objectives:
+**Work Done:**
+- Data exploration and understanding dataset structure
+- Scatter plots for feature relationships
+- Histograms for data distribution
+- Box plots for outlier detection
 
-Understanding dataset structure
-Data exploration and statistical analysis
-Visualization of feature relationships
+**Outcome:**
+Gained insights into data patterns and relationships between different Iris flower species.
 
-Techniques Used:
+---
 
-Scatter plots (feature comparison)
-Histograms (data distribution)
-Box plots (outlier detection)
-
-Outcome:
-Clear understanding of data patterns and relationships between different Iris flower species.
-
- Task 2: Stock Price Prediction
-
+### Task 2: Stock Price Prediction
 This task involves predicting stock prices using historical market data.
 
-Key Objectives:
+**Work Done:**
+- Data collection using Yahoo Finance API (yfinance)
+- Data preprocessing and analysis
+- Linear Regression model implementation
+- Comparison of actual vs predicted values
 
-Fetch real-time stock data
-Perform data preprocessing
-Build a simple predictive model
+**Outcome:**
+Built a basic machine learning model for stock trend prediction.
 
-Techniques Used:
+---
 
-Yahoo Finance API (yfinance)
-Linear Regression model
-Visualization of Actual vs Predicted values
+### Task 3: Heart Disease Prediction
+This task focuses on classification using machine learning to predict heart disease.
 
-Outcome:
-A basic predictive model that estimates stock trends and compares predicted vs actual values.
+**Work Done:**
+- Exploratory Data Analysis (EDA)
+- Data preprocessing and feature analysis
+- Logistic Regression model training
+- Model evaluation using Confusion Matrix and ROC Curve
 
- Task 3: Heart Disease Prediction
+**Outcome:**
+Developed a classification model for predicting heart disease risk.
 
-This task focuses on classification using machine learning to predict the likelihood of heart disease.
+---
 
-Key Objectives:
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- yfinance
 
-Perform exploratory data analysis (EDA)
-Train classification model
-Evaluate model performance
+---
 
-Techniques Used:
-
-Logistic Regression
-Confusion Matrix
-ROC Curve analysis
-Model evaluation metrics
-
-Outcome:
-A binary classification model capable of predicting heart disease risk with performance evaluation.
-
-🛠️ Technologies Used
-Python 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-yfinance
+## Project Structure
